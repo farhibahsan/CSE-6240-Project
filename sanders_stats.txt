@@ -1,0 +1,5 @@
+num_comments: 59545
+num_users: 21664
+Average comments per user: 2.7485690546528803
+Average length of comment: 222.104576370812
+Number that are replies to another comment: 18783
