@@ -1,3 +1,0 @@
-num_comments: 6
-num_users: 6
-Average comments per user: 1.0
