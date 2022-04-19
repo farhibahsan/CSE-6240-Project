@@ -71,6 +71,7 @@ def downloadFromUrl(filename, object_type, sub, start_time, end_time):
 
 					new_json = {}
 					new_json['retrieved_on'] = object['retrieved_on']
+					new_json['id'] = object['id']
 					new_json['link_id'] = object['link_id']
 					new_json['parent_id'] = object['parent_id']
 					new_json['author'] = object['author']
